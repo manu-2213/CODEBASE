@@ -53,6 +53,7 @@ people can not transmit the disease. However, note that a simple change in the g
 could account for this fact if needed. Following from here, the deceased (D)
 accounts for the people that eventually die while the recovered (R) accounts for the ones
 that eventually recover from the virus.
+
 Equations 17-20 are not really governing equations for the model, but rather a simple way to
 estimate the daily count of infections that the government has counted (DI), the real
 estimated number of infections taking into account the asymptomatic (DEI), the daily number
