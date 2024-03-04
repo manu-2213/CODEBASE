@@ -61,8 +61,11 @@ of deceased people (DD), and the daily number of recovered people (DR). The defi
 all the parameters are found below:
 
 Parameter Meaning
+
 sc1: Susceptible to confined rate 
+
 a1ica1: Asymptomatic/no-test to incubation
+
 sv1: Susceptible to vaccinated rate 
 ica1li1: Asymptomatic incubation to low infective rate
 se1: Susceptible to exposed rate 
