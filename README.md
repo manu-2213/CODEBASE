@@ -60,39 +60,66 @@ estimated number of infections taking into account the asymptomatic (DEI), the d
 of deceased people (DD), and the daily number of recovered people (DR). The definitions of
 all the parameters are found below:
 
-Parameter Meaning
+Parameter Meanings
 
 sc1: Susceptible to confined rate 
 
 a1ica1: Asymptomatic/no-test to incubation
 
 sv1: Susceptible to vaccinated rate 
+
 ica1li1: Asymptomatic incubation to low infective rate
+
 se1: Susceptible to exposed rate 
+
 ica1hi1: Asymptomatic incubation to high infective rate
+
 v1cv1: Vaccinated to confined and vaccinated rate
+
 li1d: Low infectious to dead rate
+
 v1ev: Vaccinated to exposed rate 
+
 li1r: Low infectious to recovered rate
+
 lv: Length of vaccine’s useful life 
+
 hi1d: High infectious to deceased rate
+
 c1s: Confined to susceptible rate 
+
 hi1r: High infectious to recovered rate
+
 c1cv1: Confined to confined and vaccinated rate
+
 rr: Immune phase (recovered to susceptible rate)
+
 c1e1: Confined to exposed rate 
+
 evaev: Exposed and vaccinated to asymptomatic/no-test exposed rate
+
 cv1c1: Confined vaccinated to confined rate (usually just lv)
+
 evicv: Exposed and vaccinated to incubation and vaccinated rate
+
 cv1ev: Confined vaccinated to exposed rate
+
 icvni: Incubation to non-infectious rate
+
 e1ic1: Exposed to incubation ratio 
+
 aevni: Asymptomatic, exposed, and vaccinated to non-infective rate
+
 e1a1: Exposed to asymptomatic/no-test ratio
+
 nid: Non-infective to deceased rate
+
 ic1li1: Incubation to low infective rate 
+
 nir: Non-infectious to recovered rate
+
 ic1hi1: Incubation to high infective rate
+
 
 The key dates are:
 
